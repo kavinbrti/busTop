@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "468502071061",
+    "project_id": "busmonitoring-7a7ce",
+    "storage_bucket": "busmonitoring-7a7ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:468502071061:android:d5288027a3dc4a38578b1c",
+        "android_client_info": {
+          "package_name": "busstop.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "468502071061-97q4h5v9crco4d2b1eov1sfo115039oi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCiMaQsjBxrwz1GA8NZOrMXgj7AHIpi_Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "468502071061-97q4h5v9crco4d2b1eov1sfo115039oi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "468502071061-6vogrgt3msskikh70p4u3ouvadm7mtdm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "busstop.com"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
